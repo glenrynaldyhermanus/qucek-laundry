@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "425496563944",
+    "project_id": "qucek-657dc",
+    "storage_bucket": "qucek-657dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425496563944:android:074ef66c8d3975c2b9395d",
+        "android_client_info": {
+          "package_name": "com.qucek.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425496563944-j38glagkf82uar3i473pfumcpu51s4pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qucek.app",
+            "certificate_hash": "55bfa6d66e57b9aed9bdb5191377f2179255ad3f"
+          }
+        },
+        {
+          "client_id": "425496563944-b83i5ng8po64ckfq16teb6o1fla3cs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQ1mmrkF4wupUs18y3FWg-O1DWdqfW_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425496563944-b83i5ng8po64ckfq16teb6o1fla3cs7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425496563944-c3a0afv5urgj66hsbcpeikcm53pt8rmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qucek.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425496563944:android:4c704e419aa953a5b9395d",
+        "android_client_info": {
+          "package_name": "com.qucek.laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425496563944-b83i5ng8po64ckfq16teb6o1fla3cs7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQ1mmrkF4wupUs18y3FWg-O1DWdqfW_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425496563944-b83i5ng8po64ckfq16teb6o1fla3cs7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425496563944-c3a0afv5urgj66hsbcpeikcm53pt8rmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qucek.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
